@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\t1133\OneDrive\桌面\hw\hw2\hw2\main.c(14,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  hw2.vcxproj -> C:\Users\t1133\OneDrive\桌面\hw\hw2\x64\Debug\hw2.exe

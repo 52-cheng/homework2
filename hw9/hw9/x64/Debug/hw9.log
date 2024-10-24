@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\t1133\OneDrive\桌面\hw\hw9\hw9\main.c(29,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\t1133\OneDrive\桌面\hw\hw9\hw9\main.c(37,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  hw9.vcxproj -> C:\Users\t1133\OneDrive\桌面\hw\hw9\x64\Debug\hw9.exe
